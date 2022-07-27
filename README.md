@@ -19,22 +19,12 @@ $ yarn start:prod
 ```
 
 ## Swagger Documentation
+# host
 host: http://localhost
+# port
 port: 3333
+# path
 path: api/docs/
 
 [Link](http://localhost:3333/api/docs/) full link to swagger documentation on localhost.
-
-## Test
-
-```bash
-# unit tests
-$ yarn test
-
-# e2e tests
-#$ yarn test:e2e
-
-# test coverage
-#$ yarn test:cov
-```
 
